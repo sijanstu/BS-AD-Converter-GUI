@@ -3,9 +3,9 @@ Bikram Sambat to Georgian Date calculator GUI tool
 
 Features:
 
-    --Single Date converter
+    --Single Date Converter
     
-    --Bulk Date 
+    --Bulk Date Converter
     
     --Separator Selector
     
