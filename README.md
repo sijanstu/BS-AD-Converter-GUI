@@ -12,12 +12,12 @@ Features:
     
 Usage:
 
---Download binary file from releases
+    --Download binary file from releases
 
---Install in your computer
+    --Install in your computer
 
---manually enter and press convert for single date conversion
+    --manually enter and press convert for single date conversion
 
---select file, choose directory, enter saving file name, enter separator and click convert for multiple dates
+    --select file, choose directory, enter saving file name, enter separator and click convert for multiple dates
 
 Sorry For Bad GUI But it works
